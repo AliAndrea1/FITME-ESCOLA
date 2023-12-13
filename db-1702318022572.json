@@ -1,0 +1,31 @@
+{
+  "cliente": [
+    {}
+  ],
+  "cart": [
+    {
+      "previewImageSrc": "assets/f2.jpeg",
+      "alt": "Blusa Feminina com Velcro ",
+      "title": "Blusa Feminina com Velcro ",
+      "price": "50,00",
+      "sessao": "feminina",
+      "id": 2
+    },
+    {
+      "previewImageSrc": "assets/mas3.jpeg",
+      "alt": "Moletom Ziper",
+      "title": "Moletom Ziper",
+      "price": "80,90",
+      "sessao": "masculina",
+      "id": 11
+    },
+    {
+      "previewImageSrc": "assets/f2M.jpeg",
+      "alt": "Calça com Ziper",
+      "title": "Calça com Ziper",
+      "price": "90,00",
+      "sessao": "masculina",
+      "id": 12
+    }
+  ]
+}
